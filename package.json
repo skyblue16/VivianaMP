@@ -1,11 +1,19 @@
 {
   "name": "portafolio",
   "version": "1.0.0",
-  "description": "portafolio",
+  "description": "creacion de portafolio",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skyblue16/VivianaMP.git"
+  },
+  "author": "viviana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skyblue16/VivianaMP/issues"
+  },
+  "homepage": "https://github.com/skyblue16/VivianaMP#readme"
 }
